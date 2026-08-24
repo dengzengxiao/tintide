@@ -78,10 +78,6 @@ tests, and can be inspected with `git diff`. Do not add GUI, desktop daemons,
 automatic location lookup, or broad application integrations before the MVP is
 usable.
 
-## License
-
-No license has been selected yet.
-
 ---
 
 ## 简体中文 (zh-CN)
@@ -150,7 +146,3 @@ tintide-daemon  未来用于更新桌面应用的后台服务
 
 早期开发优先选择能编译、带有针对性测试、并且可以通过 `git diff` 检查的小改动。在 MVP 可用前，
 不要加入 GUI、桌面 daemon、自动定位或大规模应用适配。
-
-## 许可证
-
-项目尚未选择许可证。
